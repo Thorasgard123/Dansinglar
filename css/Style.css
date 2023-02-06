@@ -1,0 +1,126 @@
+h1{
+    color: #DD5555;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #7d7d7d;
+    font-size: 15px;
+    background-color: #EBEBEB;;
+    text-align: center;
+}
+.lecture{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 100%;
+}
+.btn {
+  background: #DD5555;
+  background-image: -webkit-linear-gradient(top, #DD5555, #DD5555);
+  background-image: -moz-linear-gradient(top, #DD5555, #DD5555);
+  background-image: -ms-linear-gradient(top, #DD5555, #DD5555);
+  background-image: -o-linear-gradient(top, #DD5555, #DD5555);
+  background-image: linear-gradient(to bottom, #DD5555, #DD5555);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px;
+  text-decoration: none;
+
+
+}
+h2{
+    text-align: center;
+}
+
+.btn:hover {
+  background: #fa3c3c;
+  background-image: -webkit-linear-gradient(top, #fa3c3c, #d93434);
+  background-image: -moz-linear-gradient(top, #fa3c3c, #d93434);
+  background-image: -ms-linear-gradient(top, #fa3c3c, #d93434);
+  background-image: -o-linear-gradient(top, #fa3c3c, #d93434);
+  background-image: linear-gradient(to bottom, #fa3c3c, #d93434);
+  text-decoration: none;
+}
+img{
+
+  width: 80%;
+  padding: 10px;
+  
+
+  
+}
+.des{
+    margin-left: 400px;
+}
+li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: #7d7d7d;
+    display: inline-block;
+
+}   
+.div-1{
+  background-color: white;
+  width: 70%;
+  border-radius: 5px;
+  margin-left: 200px;
+  padding: 10px;
+  box-shadow: 0px 1px 2px 0px rgb(0 0 0 / 20%);
+}
+.div-2{
+    background-color: white;
+    width: 70%;
+    border-radius: 5px;
+    margin-left: 200px;
+    padding: 10px;
+    margin-top: 20px;
+    line-height: 2  ;
+    box-shadow: 0px 1px 2px 0px rgb(0 0 0 / 20%);
+    
+}
+.div-3{
+    background-color: white;
+    width: 70%;
+    border-radius: 5px;
+    margin-left: 200px;
+    padding: 10px;
+    margin-top: 20px;
+    line-height: 1.5;
+    text-align: left;
+    box-shadow: 0px 1px 2px 0px rgb(0 0 0 / 20%);
+}
+.div-4{
+    background-color: white;
+    width: 70%;
+    border-radius: 5px;
+    margin-left: 200px;
+    padding: 10px;
+    margin-top: 20px;
+    line-height: 2;
+    box-shadow: 0px 1px 2px 0px rgb(0 0 0 / 20%);
+    
+}
+#sidebar{
+   
+background-color: aqua;
+width: 120px;
+position: fixed;
+top: 0px;
+left: 0px;
+bottom: 0px;
+text-align: center;
+}
+#sidebar li{
+    margin-top: 20px;
+    margin-right: 20px;
+ 
+}
